@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abubakarsiddiquii
+- 👋 Hi, I’m ABUBAKAR SIDDIQUI
 - 👀 I’m a MERN Stakc Developer from India
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on MERN projects using web3
